@@ -1,0 +1,10 @@
+streamlit
+PyPDF2
+joblib
+scikit-learn
+xgboost
+pandas
+numpy
+matplotlib
+seaborn
+scipy
